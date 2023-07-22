@@ -1,5 +1,6 @@
 # Spatial-Data-Analysis-And-Visualization
 This is a series of processing cases and analyses based on spatial data files. 
+For the body of the notebook, see document: A consolidated multifactor analysis of the severity of accidents and transport casualties.ipynb
 
 ## I. Datasource
 The data used in this project was sourced from [STAT19 R PACKAGE](https://CRAN.R-project.org/package=stats19)
