@@ -3,10 +3,13 @@ This is a series of processing cases and analyses based on spatial data files.
 
 ## I. Datasource
 The data used in this project was sourced from [STAT19 R PACKAGE](https://CRAN.R-project.org/package=stats19)
-The types of data being processed include vector data (such as SHP, Geopackage, etc.) and a large amount of tabular data (which includes time information and coordinates).
+The types of data being processed include ***vector data*** (such as SHP, Geopackage, etc.) and a large amount of tabular data (which includes time information and coordinates).
 
 ## II. Introduction
 This project was initiated as part of the Spatial Data Science for Social Sciences that I elected as part of my Urban Planning and Design studies at the University of Sheffield. 
+
+This project utilizes key Python libraries for data analysis and visualization. 
+**Pandas** is used for data manipulation and analysis, ***matplotlib*** and ***seaborn*** for data visualization, ***numpy*** for mathematical operations, and the ***Google Maps API*** for handling geographical data and mapping functionalities.
 
 The primary objective of this project is to explore the causes of traffic accidents and identify factors related to their severity. By analyzing the intricate relationship between various factors such as location, time, environmental conditions, and the nature of accidents, the study aims to provide valuable insights into accident causation and severity.
 
